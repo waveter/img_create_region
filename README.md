@@ -1,4 +1,6 @@
 # img_create_region
+VueJS code to specify coordinates of regions on images by drawing region on image
+The code is used at the website: https://onlinetool247.com/image-processing/draw-region-on-image/
 
 ## Project setup
 ```
